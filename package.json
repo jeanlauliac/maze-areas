@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "name": "maze-areas",
+    "version": "1.0.0",
+    "description": "",
+    "author": {
+        "name": "Jean LAULIAC",
+        "email": "jean@lauliac.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/undashes/maze-areas.git"
+    },
+    "main": "maze-areas.coffee",
+    "dependencies": {
+        "coffee-script-redux": "2.0",
+        "async": "0.2",
+        "lodash": "1.0",
+        "colors": "0.6"
+    },
+    "engines": {
+        "node": "0.8",
+        "npm": "1.1"
+    }
+}
